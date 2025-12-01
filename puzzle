@@ -97,6 +97,8 @@ namespace square_puzzle
 
         }
 
+
+
         static void Main(string[] args)
         {
             Random random = new Random();
